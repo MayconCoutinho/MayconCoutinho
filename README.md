@@ -1,9 +1,10 @@
 
 
 
-### Olá! 👋, Meu Nome é Maycon e Seja Bem-Vindo ao Meu GitHub.
+<h1 align="center"> Olá! 👋, Seja Bem-Vindo ao Meu GitHub. </h1>
 
----
+<hr />
+
 
 ## Resumo do Perfil
 

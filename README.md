@@ -24,18 +24,18 @@
 
 
   
-![Python](https://img.shields.io/badge/-Python-737373?style=for-the-badge&logo=Python)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-737373?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-737373?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-737373?style=for-the-badge&logo=github)&nbsp;
+![Python](https://img.shields.io/badge/-Python-424242?style=for-the-badge&logo=Python)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-424242?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-424242?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github)&nbsp;
   
 ## Futuras Habilidades
   
-![MySQL](https://img.shields.io/badge/-MySQL-737373?style=for-the-badge&logo=MySQL)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-737373?style=for-the-badge&logo=sqlite)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-737373?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-737373?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-737373?style=for-the-badge&logo=javascript)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-424242?style=for-the-badge&logo=MySQL)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-424242?style=for-the-badge&logo=sqlite)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-424242?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-424242?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-424242?style=for-the-badge&logo=javascript)&nbsp;
 ---
 # Contatos
   

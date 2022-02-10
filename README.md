@@ -1,12 +1,12 @@
 
-
+---
 
 <h1 align="center"> Olá! 👋, Seja Bem-Vindo ao Meu GitHub. </h1>
 
-<hr />
-
+---
 
 ## Resumo do Perfil
+
 
 <div align="center">
   <a href="https://github.com/MayconCoutinho">

@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/MayconCoutinho">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MayconCoutinho&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>&ensp;
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCoutinho&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MayconCoutinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&ensp;
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCoutinho&layout=compact&langs_count=7&theme=radical"/>
 </div>
     
  &nbsp;

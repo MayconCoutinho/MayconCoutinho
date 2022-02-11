@@ -25,11 +25,11 @@
   
 &nbsp;
 
-  
-![Python](https://img.shields.io/badge/-Python-424242?style=for-the-badge&logo=Python)&ensp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-424242?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&ensp;
-![Git](https://img.shields.io/badge/-Git-424242?style=for-the-badge&logo=git)&ensp;
-![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github)&ensp;
+ 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&ensp;
+![Visual Studio Code](https://img.shields.io/badge/Vs_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)&ensp;
+![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;
   
   &nbsp;
 
@@ -38,17 +38,17 @@
 
   &nbsp;
   
-![MySQL](https://img.shields.io/badge/-MySQL-424242?style=for-the-badge&logo=MySQL)&ensp;
-![SQLite](https://img.shields.io/badge/-SQLite-424242?style=for-the-badge&logo=sqlite)&ensp;
-![MongoDB](https://img.shields.io/badge/-mongoDB-424242?style=for-the-badge&logo=mongoDB)&ensp;
-![HTML](https://img.shields.io/badge/-HTML-424242?style=for-the-badge&logo=HTML5)&ensp;
-![CSS](https://img.shields.io/badge/-CSS-424242?style=for-the-badge&logo=CSS3&logoColor=1572B6)&ensp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-424242?style=for-the-badge&logo=javascript)&ensp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
+![SQLite](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&ensp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;
 ---
   
   &nbsp;
   
-# ☎&ensp; ***Contatos***
+## ☎&ensp; ***Contatos***
   
   &nbsp;
 

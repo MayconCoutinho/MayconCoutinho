@@ -6,7 +6,7 @@
 &nbsp;
 
 
- <img  src="https://github.com/MayconCoutinho/MayconCoutinho/blob/main/Foto%20LinkedIn%20Banner%20(1).png"/>&ensp;
+ <img height="220em" width="1080em"  src="https://github.com/MayconCoutinho/MayconCoutinho/blob/main/Foto%20LinkedIn%20Banner%20(1).png"/>&ensp;
  
 ## 🎖&ensp; ***Resumo do Perfil***
 

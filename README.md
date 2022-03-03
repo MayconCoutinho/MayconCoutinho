@@ -28,8 +28,8 @@
 ## 🎲&ensp; ***Banco de dados Mais Familiarizado***
  
  ![MySQL](https://img.shields.io/badge/MySQL-15406b?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&ensp;
   
   &nbsp;
@@ -40,7 +40,6 @@
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;
  ![Visual Studio Code](https://img.shields.io/badge/Vs_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)&ensp;
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&ensp;
-
  
   &nbsp;
  
@@ -84,14 +83,11 @@
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&ensp;
   
   &nbsp;
-
- 
  
 ## ☎&ensp; ***Contatos***
 
 <div> 
 
 <a href="https://www.linkedin.com/in/maycon-coutinho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 
 &nbsp;

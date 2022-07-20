@@ -39,16 +39,7 @@
  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&ensp;
  
   &nbsp;
- 
-## 🖥&ensp; ***Sistemas Operacionais*** 
- 
- ![Windows10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
- ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
- 
-  &nbsp;
- 
- 
+
 ## ☎&ensp; ***Contatos***
 
 <div> 

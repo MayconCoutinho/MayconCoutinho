@@ -41,12 +41,6 @@
  
 <div style="display: inline_block"><br>
  
-<h3> ☎ Contatos </h3>
-<div style="display: inline_block"><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MayconCoutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-coutinho/)](https://www.linkedin.com/in/maycon-coutinho/)
-[![Gmail Badge](https://img.shields.io/badge/-mayconcoutinhoart@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayconcoutinhoart@gmail.com)](mailto:mayconcoutinhoart@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=MayconCoutinho&label=Profile%20views&color=0e75b6&style=flat" alt="MayconCoutinho" />
 
   

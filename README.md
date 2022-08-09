@@ -2,8 +2,7 @@
 
 *<h1 align="center"> Olá! 👋, Seja Bem-Vindo ao Meu GitHub. </h1>*
 
-
-<h3 align="center">Focado, determinado, criativo e objetivo. Pretendo trabalhar com pequenas, medias e grandes empresas que desejam crescer e dominar o mercado, contribuindo para seu crescimento de forma mútua.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=50&duration=4000&pause=100&color=56B8FF&background=01010100&multiline=true&width=1110&height=200&lines=Focado%2C+determinado%2C+criativo+e+objetivo.+Pretendo+trabalhar+com+pequenas%2C;+medias+e+grandes+empresas+que+desejam+crescer+e+dominar+o+mercado+%2C+;contribuindo++para+seu+crescimento+de+forma+m%C3%BAtua.)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
 

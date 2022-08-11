@@ -1,21 +1,21 @@
-
-
-*<h1 align="center"> Olá! 👋, Seja Bem-Vindo ao Meu GitHub. </h1>*
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Big+Shoulders+Display&size=50&duration=4000&pause=100&color=56B8FF&background=01010100&multiline=true&width=1110&height=200&lines=Focado%2C+determinado%2C+criativo+e+objetivo.+Pretendo+trabalhar+com+pequenas%2C;+medias+e+grandes+empresas+que+desejam+crescer+e+dominar+o+mercado+%2C+;contribuindo++para+seu+crescimento+de+forma+m%C3%BAtua.)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Maycon+Coutinho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div style="display: inline_block"><br>
 
-<h2> 🎖 Resumo do Perfil </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Maycon+Coutinho;Tenho+20+anos;Eu+Sou+do+Espirito+Santo,+ES;Sou+Desenvolverdor+Full+Stack;Aqui,+Posto+Meus+Projetos+e+trabalhos;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/MayconCoutinho">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MayconCoutinho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<div style="display: inline_block"><br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MayconCoutinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCoutinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+<div style="display: inline_block"><br>
+
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=MayconCoutinho&theme=gotham&hide_border=true&area=true)
   
 <div style="display: inline_block"><br>
-
-<h3> 🏆 Habilidade </h3>
 
 &nbsp;
 
@@ -35,10 +35,10 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&ensp;
  
+
+ 
  </div>
  
 <div style="display: inline_block"><br>
- 
-
-
   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04c9c9&height=120&section=footer"/>

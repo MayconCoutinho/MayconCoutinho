@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Maycon+Coutinho;Tenho+20+anos;Eu+Sou+do+Espirito+Santo,+ES;Sou+Desenvolverdor+Full+Stack;Aqui,+Posto+Meus+Projetos+e+trabalhos;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Maycon+Coutinho;Tenho+20+anos;Eu+Sou+do+Espirito+Santo,+ES;Sou+Desenvolverdor+Front-end;Aqui,+Posto+Meus+Projetos+e+trabalhos;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
 

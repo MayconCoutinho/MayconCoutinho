@@ -1,17 +1,13 @@
-
-
 <div style="display: inline_block"><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Olá+Sou+Desenvolvedor+Full-Stack;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
 
-<div align="center">  
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MayconCoutinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCoutinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  
-&nbsp;
 
+## 🏆 ***Minhas Competências*** ➜ [Curriculo](https://github.com/MayconCoutinho/MayconCoutinho/files/9611474/MayconCoutinho.pdf)
+ 
+ <br/>
  <div align="center">
  
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)&ensp;
@@ -34,6 +30,15 @@
  
  </div>
  
-<div style="display: inline_block"><br>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04c9c9&height=80&section=footer"/>
+  <br/>
+
+ 
+ ## 📚 ***Portfolio Semelhante ao Youtube*** ➜ [Link](https://maycon-coutinho.surge.sh/)
+ 
+
+
+<h1 align="center">
+<img width=750 src="https://user-images.githubusercontent.com/60453269/191372640-44c78769-b235-4f88-b629-0738033fe78a.png">
+</h1>
+
+

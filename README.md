@@ -1,3 +1,11 @@
+## 📚 ***Portfolio Com todos meus Projetos*** ➜ [Link](https://maycon-coutinho.surge.sh/)
+
+<h1 align="center">
+<img width=750 src="https://user-images.githubusercontent.com/60453269/191372640-44c78769-b235-4f88-b629-0738033fe78a.png">
+</h1>
+
+<br/>
+
 ## 🏆 ***Minhas Competências*** ➜ [Curriculo](https://github.com/MayconCoutinho/MayconCoutinho/files/9611474/MayconCoutinho.pdf)
  
  <br/>
@@ -22,16 +30,3 @@
  ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
  
  </div>
- 
-  <br/>
-
- 
- ## 📚 ***Portfolio Com todos meus Projetos*** ➜ [Link](https://maycon-coutinho.surge.sh/)
- 
-
-
-<h1 align="center">
-<img width=750 src="https://user-images.githubusercontent.com/60453269/191372640-44c78769-b235-4f88-b629-0738033fe78a.png">
-</h1>
-
-

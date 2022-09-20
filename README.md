@@ -1,10 +1,3 @@
-<div style="display: inline_block"><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=1000&lines=Olá+Sou+Desenvolvedor+Full-Stack;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
-
-<div style="display: inline_block"><br>
-
-
 ## 🏆 ***Minhas Competências*** ➜ [Curriculo](https://github.com/MayconCoutinho/MayconCoutinho/files/9611474/MayconCoutinho.pdf)
  
  <br/>

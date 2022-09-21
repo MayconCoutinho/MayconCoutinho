@@ -1,10 +1,5 @@
 ## 📚 ***Portfolio Com todos meus Projetos*** ➜ [Link](https://maycon-coutinho.surge.sh/)
 
-
-<a align="center" href="https://maycon-coutinho.surge.sh/" target="_blank">
-  📚 Portfolio Com todos meus Projetos 
-</a>
-
 <h1 align="center">
 <img width=750 src="https://user-images.githubusercontent.com/60453269/191372640-44c78769-b235-4f88-b629-0738033fe78a.png">
 </h1>

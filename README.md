@@ -33,13 +33,13 @@
  
  <br/>
  
- <p>
+<h1 align="center">
  
   <img src = "https://github-readme-stats.vercel.app/api?username=MayconCoutinho&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MayconCoutinho&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 
-</p>
+</h1>
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>

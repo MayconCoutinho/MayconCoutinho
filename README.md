@@ -1,7 +1,7 @@
-## 📚 ***Portfolio Com todos meus Projetos*** ➜ [Link](https://maycon-coutinho.surge.sh/)
+## 📚 ***Portfolio Com todos meus Projetos*** ➜ [Portfolio](https://maycon-coutinho.surge.sh/) ➜ [Curriculo](https://github.com/MayconCoutinho/Portifolio_Maycon/files/10785844/MayconCoutinhoFullStack.pdf)
 
 <h1 align="center">
-<img width=750 src="https://user-images.githubusercontent.com/60453269/191372640-44c78769-b235-4f88-b629-0738033fe78a.png">
+<img width=750 src="https://user-images.githubusercontent.com/60453269/220368962-8130c552-82d0-41b7-89a2-f3d42b3ecf49.png">
 </h1>
 
 <br/>
@@ -33,7 +33,6 @@
  
  <br/>
 
- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>

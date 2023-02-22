@@ -6,8 +6,8 @@
 
 <br/>
 
-## 🏆 ***Minhas Competências*** ➜ [Curriculo](https://github.com/MayconCoutinho/Portifolio_Maycon/files/10785844/MayconCoutinhoFullStack.pdf)
- 
+## 🏆 ***Minhas Competências*** 
+
  <br/>
  <div align="center">
  

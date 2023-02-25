@@ -1,10 +1,12 @@
 ## 📚 ***Portfolio Com todos meus Projetos*** ➜ [Portfolio](https://maycon-coutinho.surge.sh/) ➜ [Curriculo](https://github.com/MayconCoutinho/Portifolio_Maycon/files/10785844/MayconCoutinhoFullStack.pdf)
 
 <h1 align="center">
-<img width=750 src="https://user-images.githubusercontent.com/60453269/220396798-4340b144-2c40-4862-b609-b32467fc0002.png">
+<img width=750 src="https://user-images.githubusercontent.com/60453269/221378327-9aa8ad25-114f-43a9-bac0-d396e363d12c.png">
 </h1>
 
 <br/>
+
+
 
 ## 🏆 ***Minhas Competências*** 
 

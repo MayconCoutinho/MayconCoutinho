@@ -31,7 +31,8 @@
  ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
  ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=ff7f1c)&ensp;
  ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
- 
+ ![docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker)&ensp;
+
  
  </div>
  

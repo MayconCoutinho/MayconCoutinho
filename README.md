@@ -4,8 +4,6 @@
 <img width=750 src="https://user-images.githubusercontent.com/60453269/221378327-9aa8ad25-114f-43a9-bac0-d396e363d12c.png">
 </h1>
 
-<br/>
-
 ## 🏆 ***Minhas Competências*** 
 
 <h1 align="center">

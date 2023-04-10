@@ -24,7 +24,6 @@
  ![NodeJS](https://img.shields.io/badge/node.js-49a249?style=for-the-badge&logo=node.js&logoColor=white)&ensp;
  ![Next.js]( https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%ff7f1c)
  ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&ensp;
  ![MySQL](https://img.shields.io/badge/MySQL-15406b?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
@@ -36,6 +35,7 @@
  ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=ff7f1c)&ensp;
  ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
  ![docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker)&ensp;
+ ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&ensp;
  ![django](https://img.shields.io/badge/django-ddd?style=for-the-badge&logo=django&logoColor=092e20)&ensp;
  </div>
 

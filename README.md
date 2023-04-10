@@ -36,7 +36,7 @@
  ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=ff7f1c)&ensp;
  ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
  ![docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker)&ensp;
- 
+ ![django](https://img.shields.io/badge/django-ddd?style=for-the-badge&logo=django&logoColor=092e20)&ensp;
  </div>
 
  

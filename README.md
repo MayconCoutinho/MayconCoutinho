@@ -2,8 +2,8 @@
 
 <h1 align="center">
  
-<img width=750 src="https://user-images.githubusercontent.com/60453269/235735396-446cea73-e722-4593-a823-07d60ea57f5e.png">
- 
+<img width=750 src="https://user-images.githubusercontent.com/60453269/236533292-569506b8-3bae-4c0e-94e0-f5b56cd5dc88.png">
+
 </h1>
 
 ## 🏆 ***Minhas Competências*** 
